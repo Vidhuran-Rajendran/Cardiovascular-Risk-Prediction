@@ -14,6 +14,8 @@ Variables
 Each attribute is a potential risk factor. There are both demographic, behavioral, and medical risk
 factors.
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 ## <b> Data Description </b>
 
 ### **Demographic:**
@@ -51,6 +53,7 @@ Predict variable (desired target)
 
 **10-year risk of coronary heart disease CHD(binary: “1”, means “Yes”, “0” means “No”) -DV**
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## Approach:-
 ### Data preparation:
@@ -67,7 +70,31 @@ Predict variable (desired target)
 
 •	Constructed new feature ‘Smoking Factor’ from number of cigarettes consumption
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## Conclusion:-
 
 Using XGBoost and finetuning parameters with grid search and cross-validation I got a Recall of 94%
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<h2 id="credits"> :scroll: Credits</h2>
+
+< Vidhuran Rajendran > | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
+
+<p> <i> Contact me for Data Science Project Collaborations</i></p>
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vidhuran)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](github.com/Vidhuran-Rajendran)
+[![Medium Badge](https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vidhuran_07)
+[![Resume Badge](https://img.shields.io/badge/resume-0077B5?style=for-the-badge&logo=resume&logoColor=white)](https://docs.google.com/document/d/1oqq7SOX-VfSNAwPcCo4rS5dtf5fm57ZNVGBg0nDRIcI/edit?usp=sharing)
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+## 📚 References
+1. Coronary Heart Disease - https://www.medicalnewstoday.com/articles/184130
+2. Pulse Pressure - https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/expert-answers/pulse-pressure/faq-20058189#:~:text=The%20top%20number%20(systolic)%20minus,40%20mm%20Hg%20is%20unhealthy.
+3. Using SMOTE - https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/
+4. XGBoost Documentation - https://xgboost.readthedocs.io/en/stable/
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
