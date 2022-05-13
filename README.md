@@ -1,6 +1,6 @@
 # project3-Cardiovascular-Risk-Prediction
 
-## <b> Problem Description </b>
+## 📋 <b> Problem Description </b>
 
 The dataset is from an ongoing cardiovascular study on residents of the town of Framingham,
 Massachusetts.
@@ -16,7 +16,7 @@ factors.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## <b> Data Description </b>
+## 📋 <b> Data Description </b>
 
 ### **Demographic:**
 * Sex: male or female("M" or "F")
@@ -55,7 +55,7 @@ Predict variable (desired target)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## Approach:-
+## 📖 Approach:-
 ### Data preparation:
 •	Removed null values from the dataset
 
