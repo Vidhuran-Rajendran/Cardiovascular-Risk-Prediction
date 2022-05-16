@@ -70,6 +70,18 @@ Predict variable (desired target)
 
 •	Constructed new feature ‘Smoking Factor’ from number of cigarettes consumption
 
+### Algorithms
+
+• KNN
+
+• Logistic Regression
+
+• Decision Tree
+
+• Gradient Boost
+
+• XGBoost
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 📖 XGBoost
